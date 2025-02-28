@@ -1,0 +1,26 @@
+# Ignore the data folder
+data/
+data_matlab/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+venv/
+.envrc
+.venv/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log and temp files
+*.log
+*.tmp
